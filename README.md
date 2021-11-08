@@ -1,5 +1,20 @@
 # fit-vue3-boilerplate
 
+installation:
+```
+npm install
+```
+
+run development:
+```
+npm run dev
+```
+
+build:
+```
+npm run build
+```
+
 # Vue 3 + Typescript + Vite + Pinia + File Based Routing
 
 - pinia: https://pinia.esm.dev/
