@@ -1,4 +1,8 @@
+<script setup lang="ts">
+import Navbar from '../navbar/index.vue'
+</script>
 <template>
+  <Navbar />
   <router-view />
 </template>
 <style>

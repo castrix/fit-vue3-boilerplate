@@ -4,7 +4,7 @@ import HelloWorldVue from '@/components/HelloWorld.vue'
 
 <template>
   <div>
-    child of test-page
+    nested route page child
     <HelloWorldVue msg="Vite + Vue 3 + Typescript + Pinia + File Based Routing" />
   </div>
 </template>

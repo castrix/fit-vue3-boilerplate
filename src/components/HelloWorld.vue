@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { useRoute } from 'vue-router'
-import { useHelloWorldStore } from '../store/HelloWorld'
+import { useHelloWorldStore } from '@/store/useHelloWorld'
 
 defineProps<{ msg: string }>()
 
@@ -34,7 +34,10 @@ const route = useRoute()
     <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Docs</a>
   </p>
 
-  <button type="button" @click="addTwo">count is: {{ helloWorld.count }}</button>
+  <button type="button" @click="helloWorld.increment">
+    count is: {{ helloWorld.count }}
+  </button>
+  <button type="button" @click="addTwo">add two</button>
   <p>
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
