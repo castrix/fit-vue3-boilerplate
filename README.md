@@ -1,5 +1,7 @@
 # fit-vue3-boilerplate
 
+demo: https://castrix.github.io/fit-vue3-boilerplate/
+
 installation:
 ```
 npm install
