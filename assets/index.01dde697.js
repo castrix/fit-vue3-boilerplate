@@ -1,0 +1,1 @@
+import{H as e}from"./index.7bdcbdc0.js";import{d as t,o,a as s,f as a,h as c}from"./vendor.0c392cf9.js";const r=c(" test page "),m=t({setup(n){return(d,i)=>(o(),s("div",null,[r,a(e,{msg:"Vite + Vue 3 + Typescript + Pinia + File Based Routing"})]))}});export{m as default};

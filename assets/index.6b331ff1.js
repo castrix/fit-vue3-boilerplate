@@ -1,0 +1,1 @@
+import{H as o}from"./index.7bdcbdc0.js";import{d as t,o as c,a,f as n,h as r}from"./vendor.0c392cf9.js";var e={};const s=r(" dynamic route "),i=t({setup(d){return(l,p)=>(c(),a("div",null,[s,n(o,{msg:"Vite + Vue 3 + Typescript + Pinia + File Based Routing"})]))}});typeof e=="function"&&e(i);export{i as default};

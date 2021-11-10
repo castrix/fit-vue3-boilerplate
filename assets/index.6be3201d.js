@@ -1,0 +1,1 @@
+import{H as e}from"./index.7bdcbdc0.js";import{d as o,o as t,a as s,f as a,h as r}from"./vendor.0c392cf9.js";const c=r(" nested route page "),u=o({setup(n){return(d,i)=>(t(),s("div",null,[c,a(e,{msg:"Vite + Vue 3 + Typescript + Pinia + File Based Routing"})]))}});export{u as default};

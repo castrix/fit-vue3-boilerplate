@@ -1,0 +1,1 @@
+import{H as o}from"./index.7bdcbdc0.js";import{d as t,j as s,o as a,a as r,h as n,t as c,k as i,f as d}from"./vendor.0c392cf9.js";const _=t({setup(u){const e=s();return(p,l)=>(a(),r("div",null,[n(" your id: "+c(i(e).params.id)+" ",1),d(o,{msg:"Vite + Vue 3 + Typescript + Pinia + File Based Routing"})]))}});export{_ as default};
