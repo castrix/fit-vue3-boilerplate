@@ -17,6 +17,11 @@ build:
 npm run build
 ```
 
+run jest test:
+```
+npm run test
+```
+
 # Vue 3 + Typescript + Vite + Pinia + File Based Routing
 
 - pinia: https://pinia.esm.dev/
