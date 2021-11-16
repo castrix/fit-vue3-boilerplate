@@ -1,4 +1,4 @@
-import { mount, shallowMount } from '@vue/test-utils'
+import { mount } from '@vue/test-utils'
 import PageTest from '@/pages/test/index.vue'
 
 jest.mock('@/store/useHelloWorld', () => ({
