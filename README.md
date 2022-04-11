@@ -1,6 +1,6 @@
-# fit-vue3-boilerplate
+# Fit - Vue 3 Boilerplate
 
-Lightweight template to start with pinia
+Lightweight template to start with pinia and filebased routing
 
 demo: https://castrix.github.io/fit-vue3-boilerplate/
 
