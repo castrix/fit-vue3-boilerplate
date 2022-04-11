@@ -1,5 +1,7 @@
 # fit-vue3-boilerplate
 
+Lightweight template to start with pinia
+
 demo: https://castrix.github.io/fit-vue3-boilerplate/
 
 installation:
